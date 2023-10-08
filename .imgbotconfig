@@ -1,4 +1,5 @@
 {
-  "aggressiveCompression": "false", 
-  "minKBReduced": 0
+  "schedule": "daily",
+  "aggressiveCompression": "false",
+  "minKBReduced": 50
 }
