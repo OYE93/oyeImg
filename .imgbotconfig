@@ -1,6 +1,6 @@
 {
   "aggressiveCompression": "false", 
-  "minKBReduced": 50,
+  "minKBReduced": null,
   "prTitle" : "[imgbot] Compress Images",        
   "prBody" : "The optimization ratio: {optimization_ratio} \n The optimization details {optimization_details}"
 }
